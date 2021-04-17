@@ -3,5 +3,6 @@ Rencana Konten WPU
 - JS
   *ES6
   *Framework JS
+- Fundamental Struktur Data Dasar
 - PHP Framework
 - Interview
